@@ -1,6 +1,7 @@
 # sequelize-aws-x-ray-mysql
 
 The `sequelize-aws-x-ray-mysql` module is a [`Sequelize`](http://sequelizejs.com/) extension for [AWS X-Ray](https://aws.amazon.com/xray/) to capture MySQL queries.
+This module requires the `mysql` module not the `mysql2` module.
 
 ## Installation
 
